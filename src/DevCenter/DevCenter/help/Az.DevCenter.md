@@ -1,5 +1,5 @@
 ---
-Module Name: Az.DevCenter
+Module Name: Az.DevCenterUpdated
 Module Guid: c8a627bd-456d-4231-b00b-e8ba3594e2d1
 Download Help Link: https://learn.microsoft.com/powershell/module/az.devcenter
 Help Version: 1.0.0.0
